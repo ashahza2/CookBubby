@@ -1,0 +1,56 @@
+{
+  "CookRecipes":
+  [
+    {"RecipeDifficulty":"EASY",
+    "RecipeID":1 ,
+    "RecipeImage":"https://github.com/ashahza2/CookBubby/blob/main/Broccoli-Pesto-Pasta-7.jpg?raw=true",
+    "RecipeCalories":"98",
+    "RecipeName":"Broccoli Pesto Pasta",
+    "RecipePrepTime":"20 min",
+    "RecipeCookTime":"15 min",
+    "RecipeWebsite":"https://themodernproper.com/broccoli-pesto-pasta",
+    "RecipeDecription": "This broccoli pesto pasta recipe is a thing of logistical beauty. A stock pot of boiling water does double-duty (we love that kind of efficiency, don’t you?) and simple ingredients come together to make a healthy, satisfying supper everyone can feel good about. Oh yeah, that’s the stuff. Here’s how to make this easy, healthy pasta recipe:Prep all of your broccoli pesto ingredients—rinse the basil leaves, grate your Parmigiano, peel your garlic.Bring a big pot of salted water to a boil. Boil the broccoli. After two minutes, remove the florets, and add your pasta.While the pasta cooks, make the pesto! Blend the broccoli, basil, garlic, pine nuts, extra virgin olive oil, salt and parmigiano reggiano until it’s nice and smooth.When the pasta is done, scoop out a cup of that liquid gold (aka pasta water) and add it slowly to the pesto as you blend it a bit more.  Toss the pasta with the broccoli pesto and dig in!"
+    },
+    {"RecipeDifficulty":"NORMAL",
+    "RecipeID":2 ,
+    "RecipeImage":"https://github.com/ashahza2/CookBubby/blob/main/Lemon-Chicken-7.jpg?raw=true",
+    "RecipeCalories":"465",
+    "RecipeName":"Lemon Chicken",
+    "RecipePrepTime":"5 min",
+    "RecipeCookTime":"30 min",
+    "RecipeWebsite":"https://themodernproper.com/lemon-chicken",
+    "RecipeDecription": "Our easy, baked lemon chicken recipe is healthy, fast, and so, so delicious. The key is coating the lemon chicken with lots of moisture-giving things, and watching that internal temp closely so that you don’t over-bake the chicken. Make a lemon chicken marinade. Well, it’s really more like a rub or a paste, because our lemon chicken recipe requires no actual marinating (yay!). But basically, we coat the chicken breasts in a thick, olive oil-based herb paste flavored with oregano, thyme, garlic powder, salt and pepper. Make the lemon chicken sauce! Stir together all of the zingy things—white wine, fresh garlic, lemon zest, lemon juice—to make the sauce that the chicken breasts will bake in. You’ll also use this sauce to baste the chicken as it bakes, ensuring that these bright flavors have a chance to be absorbed by the chicken (without having to actually marinate the chicken). Bake! Until you get that internal temperature reading of 165°F. Then it’s time to dig in"
+    },
+    {"RecipeDifficulty":"HARD",
+    "RecipeID":3 ,
+    "RecipeImage":"https://github.com/ashahza2/CookBubby/blob/main/Butter-Chicken-16.jpg?raw=true",
+    "RecipeCalories":"389",
+    "RecipeName":"Butter Chicken",
+    "RecipePrepTime":"5 min",
+    "RecipeCookTime":"25 min",
+    "RecipeWebsite":"https://themodernproper.com/stovetop-butter-chicken",
+    "RecipeDecription": "Grab yourself about 30 minutes and your favorite skillet, and get ready to make the best butter chicken ever! We mention this tip a lot, but it’s a good one—it’ll be easier to cut that chicken into cubes if it’s just a bit frozen. So, if you can remember to pop the chicken breasts into the freezer about an hour before you start cooking, yay! If not, no biggie. Oh! And one more thing! If you’d like to make this butter chicken recipe dairy-free—or are simply looking to cut back on animal fats—you can swap coconut oil for the butter and full-fat coconut milk for the heavy cream and still get a delicious version of butter chicken. Whether you use heavy cream or coconut milk, here’s how easy it is to make our stovetop butter chicken: Sauté onions, garlic and ginger for a few minutes. Stir in butter, stock, tomato paste, all of the spices—the flavorful base of the butter chicken sauce!—followed by all of the chicken pieces. Pop a lid on the pan and simmer until the chicken is done. Stir in lemon juice and heavy cream, and simmer on low for just a few minutes to let everything cohere. You’re done! We love this with plain, steamed basmati rice, and serve some warm naan on the side if you’ve got it!"
+    },
+    {"RecipeDifficulty":"EASY",
+    "RecipeID":4 ,
+    "RecipeImage":"https://github.com/ashahza2/CookBubby/blob/main/Chicken-Adobo-8.jpg?raw=true",
+    "RecipeCalories":"340",
+    "RecipeName":"Chicken Adobo",
+    "RecipePrepTime":"5 min", 
+    "RecipeCookTime":"25 min", 
+    "RecipeWebsite":"https://themodernproper.com/chicken-adobo"", 
+    "RecipeDecription": "Chicken thighs get so thoroughly soaked in adobo sauce in this chicken adobo recipe—first with a good long marinade and then by being fully simmered in the sauce—that they absolutely pop with so much flavorful goodness by the time you’re ready to serve dinner. This recipe isn’t a super time-saver, but it’s largely effortless—simply plan ahead a bit, and make sure you’ve got a good, big skillet handy. Here’s how to make our chicken adobo recipe: Marinate the chicken thighs in the adobo sauce for at least an hour, or as long as three hours. We put a cap on the marinade time because the white vinegar is super acidic, so it’ll start to mess with the texture of the chicken thighs after three hours. Brown the chicken thighs! They don’t need to be cooked through—focus on getting a nice golden-brown color and slightly crisp texture. Pour in the marinade and bring the chicken and sauce to a boil. Simmer until the sauce has reduced by half and the chicken is completely cooked through."
+    },
+    {"RecipeDifficulty":"",
+    "RecipeID": ,
+    "RecipeImage":"",
+    "RecipeCalories":"",
+    "RecipeName":"",
+    "RecipePrepTime":"", 
+    "RecipeCookTime":"", 
+    "RecipeWebsite":"", 
+    "RecipeDecription": ""
+    }, 
+  ],
+  "Status":"OK"
+}
